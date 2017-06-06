@@ -123,7 +123,6 @@ namespace SmartHome
         }
         private void ColorFrontChanged(object sender, EventArgs e)
         {
-            // Make sure track bar starts at the right side
             UpdateFrontPreview();
             labelRedFrontValue.Text = trackBarRedFront.Value.ToString();
             labelGreenFrontValue.Text = trackBarGreenFront.Value.ToString();
