@@ -1,0 +1,14 @@
+C:\Users\Joris\documents\visual studio 2017\Projects\SmartHome\SmartHome\bin\Debug\SmartHome.exe.config
+C:\Users\Joris\documents\visual studio 2017\Projects\SmartHome\SmartHome\bin\Debug\SmartHome.exe
+C:\Users\Joris\documents\visual studio 2017\Projects\SmartHome\SmartHome\bin\Debug\SmartHome.pdb
+C:\Users\Joris\documents\visual studio 2017\Projects\SmartHome\SmartHome\obj\Debug\SmartHome.LogInForm.resources
+C:\Users\Joris\documents\visual studio 2017\Projects\SmartHome\SmartHome\obj\Debug\SmartHome.MainForm.resources
+C:\Users\Joris\documents\visual studio 2017\Projects\SmartHome\SmartHome\obj\Debug\SmartHome.MusicSettings.resources
+C:\Users\Joris\documents\visual studio 2017\Projects\SmartHome\SmartHome\obj\Debug\SmartHome.ProfileSettings.resources
+C:\Users\Joris\documents\visual studio 2017\Projects\SmartHome\SmartHome\obj\Debug\SmartHome.Properties.Resources.resources
+C:\Users\Joris\documents\visual studio 2017\Projects\SmartHome\SmartHome\obj\Debug\SmartHome.csproj.GenerateResource.Cache
+C:\Users\Joris\documents\visual studio 2017\Projects\SmartHome\SmartHome\obj\Debug\SmartHome.exe
+C:\Users\Joris\documents\visual studio 2017\Projects\SmartHome\SmartHome\obj\Debug\SmartHome.pdb
+C:\Users\Joris\documents\visual studio 2017\Projects\SmartHome\SmartHome\obj\Debug\SmartHome.DoorlockSettings.resources
+C:\Users\Joris\documents\visual studio 2017\Projects\SmartHome\SmartHome\obj\Debug\SmartHome.LightSettings.resources
+C:\Users\Joris\documents\visual studio 2017\Projects\SmartHome\SmartHome\obj\Debug\SmartHome.csprojResolveAssemblyReference.cache
